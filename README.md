@@ -1,6 +1,8 @@
 # ReplaceRhythm
 Rhythm bot on discord came to a sad end due to Youtube restrictions but as a coder you develop your own.
 
+A video demonstration is in the folder 
+
 # Required-libraries 
 1.> PyNaCl
 
